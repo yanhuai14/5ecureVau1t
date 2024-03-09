@@ -1,0 +1,1 @@
+Description: SecureVault is a digital security solution that provides end-to-end encryption for your sensitive documents and communications. It's designed for individuals and businesses that prioritize privacy and security without compromising on usability.
